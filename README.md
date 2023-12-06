@@ -1,0 +1,2 @@
+# Adapter
+Wzorzec projektowy adapter
